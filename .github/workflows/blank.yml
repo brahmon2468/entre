@@ -1,0 +1,501 @@
+ DMCA TOS CONTACT CREATE NEW PASTESIGN INSIGN UP
+
+ 
+Zeher
+
+23rd June 2021 02:36:03 PM | Views: 5390
+Download | Show/Hide line no. | Copy text to clipboard
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+Z::pause, toggle
+ 
+Q::
+Loop
+{
+ 
+send,  ENTER
+send, ^a
+send, ^c
+Loop, 4500
+{
+sleep, 10
+send, ^v😞{enter}
+send, ^v😖{enter}
+send, ^v😩{enter}
+send, ^v😫{enter}
+send, ^v😵{enter}
+sleep, 20
+send, { }
+sleep, 300
+send, ^{tab}
+sleep, 10
+}
+ 
+send, OP CHU*
+send, ^a
+send, ^c
+Loop, 45
+{
+sleep, 20
+send, ^v😁{enter}
+sleep, 5
+send, ^v🤔{enter}
+sleep, 5
+send, ^v🤕{enter}
+sleep, 5
+send, ^v🤓{enter}
+sleep, 5
+send, ^v🤕{enter}
+sleep, 5
+send, ^v😆{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, HATERS Ln
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v😎{enter}
+sleep, 5
+send, ^v😱{enter}
+sleep, 5
+send, ^v🙊{enter}
+sleep, 5
+send, ^v🤮{enter}
+sleep, 5
+send, ^v😛{enter}
+sleep, 5
+send, ^v&{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, Lnd LE
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v[{enter}
+sleep, 5
+send, ^v]{enter}
+sleep, 5
+send, ^v({enter}
+sleep, 5
+send, ^v){enter}
+sleep, 5
+send, ^v\{enter}
+sleep, 5
+send, ^v/{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send,  BHDK 6KAA
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v-{enter}
+sleep, 5
+send, ^v({enter}
+sleep, 5
+send, ^v&{enter}
+sleep, 5
+send, ^v+{enter}
+sleep, 5
+send, ^v'{enter}
+sleep, 5
+send, ^v_{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send,  B.T.C
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v={enter}
+sleep, 5
+send, ^v~{enter}
+sleep, 5
+send, ^v&{enter}
+sleep, 5
+send, ^v\{enter}
+sleep, 5
+send, ^v/{enter}
+sleep, 5
+send, ^v:{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send,  m/c
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v_{enter}
+sleep, 5
+send, ^v({enter}
+sleep, 5
+send, ^v&{enter}
+sleep, 5
+send, ^v.{enter}
+sleep, 5
+send, ^v'{enter}
+sleep, 5
+send, ^v-{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, 6KAA
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v={enter}
+sleep, 5
+send, ^v({enter}
+sleep, 5
+send, ^v&{enter}
+sleep, 5
+send, ^v]{enter}
+sleep, 5
+send, ^v[{enter}
+sleep, 5
+send, ^v;{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, CHUTLL
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v😜{enter}
+sleep, 5
+send, ^v😂{enter}
+sleep, 5
+send, ^v😝{enter}
+sleep, 5
+send, ^v🙈{enter}
+sleep, 5
+send, ^v😴{enter}
+sleep, 5
+send, ^v😮{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, R9D
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 🤔^v{enter}
+sleep, 5
+send, 🤭^v{enter}
+sleep, 5
+send, 🤑^v{enter}
+sleep, 5
+send, 😝^v{enter}
+sleep, 5
+send, 🤤^v{enter}
+sleep, 5
+send, 💋^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send,  R9D 6KAA
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 😜^v{enter}
+sleep, 5
+send, 😂^v{enter}
+sleep, 5
+send, 😝^v{enter}
+sleep, 5
+send, 🙈^v{enter}
+sleep, 5
+send, 😴^v{enter}
+sleep, 5
+send, 😮^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, SALE BHDK
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v😜{enter}
+sleep, 5
+send, ^v😂{enter}
+sleep, 5
+send, ^v😝{enter}
+sleep, 5
+send, ^v🙈{enter}
+sleep, 5
+send, ^v😴{enter}
+sleep, 5
+send, ^v😮{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, saale B.T.C
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 🤧^v{enter}
+sleep, 5
+send, 🤯^v{enter}
+sleep, 5
+send, 🤠^v{enter}
+sleep, 5
+send, 😎^v{enter}
+sleep, 5
+send, 🤓^v{enter}
+sleep, 5
+send, 😈^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send,  MUTAR
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 🤒^v{enter}
+sleep, 5
+send, 🤤^v{enter}
+sleep, 5
+send, 🤠^v{enter}
+sleep, 5
+send, 😪^v{enter}
+sleep, 5
+send, 😾^v{enter}
+sleep, 5
+send, 😸^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, hILALE
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 🧐^v{enter}
+sleep, 5
+send, 😌^v{enter}
+sleep, 5
+send, 🤥^v{enter}
+sleep, 5
+send, 🙄^v{enter}
+sleep, 5
+send, 😐^v{enter}
+sleep, 5
+send, 😏^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, RNDKE & BHDK
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 🤐^v{enter}
+sleep, 5
+send, 🤫^v{enter}
+sleep, 5
+send, 🤑^v{enter}
+sleep, 5
+send, 😝^v{enter}
+sleep, 5
+send, 🤪^v{enter}
+sleep, 5
+send, 😜^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, CHUTIYA HN KYA
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 😛^v{enter}
+sleep, 5
+send, 😋^v{enter}
+sleep, 5
+send, 😗^v{enter}
+sleep, 5
+send, 🤑^v{enter}
+sleep, 5
+send, 😉^v{enter}
+sleep, 5
+send, 😜^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, SASTA SPAM OP
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 😛^v{enter}
+sleep, 5
+send, 🙂^v{enter}
+sleep, 5
+send, 🙂^v{enter}
+sleep, 5
+send, 😂^v{enter}
+sleep, 5
+send, 😉^v{enter}
+sleep, 5
+send, 😁^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, LODU
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, 🤣^v{enter}
+sleep, 5
+send, 😅^v{enter}
+sleep, 5
+send, 😄^v{enter}
+sleep, 5
+send, 🙈^v{enter}
+sleep, 5
+send, 😀^v{enter}
+sleep, 5
+send, 😮^v{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+ 
+send, IT,S AK
+send, ^a
+send, ^c
+Loop, 450
+{
+sleep, 20
+send, ^v[{enter}
+sleep, 5
+send, ^v\{enter}
+sleep, 5
+send, ^v/{enter}
+sleep, 5
+send, ^v.{enter}
+sleep, 5
+send, ^v({enter}
+sleep, 5
+send, ^v&{enter}
+sleep, 20
+send, { }
+sleep, 550
+send, ^{tab}
+sleep, 20
+}
+sleep, 5
+}
+ 
+return
+F5::
+reload
+return
+
+ 
+ 
+Copyright © 2021 PasteHere.xyz. All Rights Reserved.
